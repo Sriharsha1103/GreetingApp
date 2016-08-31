@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GreetingApp</string>
+    <string-array name="spinnerItems">
+        <item>Select a Greeting</item>
+        <item>Best Wishes</item>
+        <item>Happy Birthday</item>
+    </string-array>
+</resources>
